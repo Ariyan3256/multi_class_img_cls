@@ -1,1 +1,2 @@
 # multi_class_img_cls
+This project focuses on developing a multi-image classification model utilizing the CIFAR-10 dataset. The CIFAR-10 dataset, a well-known benchmark in the field of computer vision, comprises 60,000 32x32 color images across 10 distinct classes, with each class representing common objects like airplanes, automobiles, birds, cats, deer, dogs, frogs, horses, ships, and trucks. Our objective was to design, train, and evaluate a deep learning model capable of accurately classifying these images into their respective categories.
